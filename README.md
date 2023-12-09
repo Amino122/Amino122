@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amino122
-- 👀 I’m interested in webb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning back-end lang 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me youssefamin202@gmail.com
 
 <!---
